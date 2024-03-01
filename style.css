@@ -94,11 +94,11 @@ body{
 }
 .footer{
     display: flex;
-    /* flex-direction: column; */
+    flex-direction: column;
     justify-content: center;
 }
 .text_and_demo_area{
-    width: 60%;
+    width: 100%;
     display: flex;
     justify-self: center;
     flex-direction: column;
